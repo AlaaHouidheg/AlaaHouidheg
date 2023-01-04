@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa houidheg</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaahouidheg" alt="alaahouidheg" /></a> </p>
+
 
 - 🔭 I’m currently working on [Martial-art](https://martial-web-ui.web.app/)
 
