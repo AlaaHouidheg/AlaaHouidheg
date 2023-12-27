@@ -3,14 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [Martial-art](https://martial-web-ui.web.app/)
-
-- 🌱 I’m currently learning **docker**
-
-- 👨‍💻 All of my projects are available at [https://alaahouidheg-764df.web.app/](https://alaahouidheg-764df.web.app/)
-
-- 📝 I regularly write articles on [https://medium.com/norma-dev/end-to-end-test-with-cypress-c6b912dc03f](https://medium.com/norma-dev/end-to-end-test-with-cypress-c6b912dc03f)
-
 - 💬 Ask me about **react, nextJs, TailwindCss**
 
 - 📫 How to reach me **alahouidheg@gmail.com**
